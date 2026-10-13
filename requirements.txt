@@ -1,0 +1,12 @@
+numpy>=2.0
+pandas>=2.2
+scipy>=1.13
+matplotlib>=3.9
+seaborn>=0.13
+scikit-learn>=1.6
+imbalanced-learn>=0.13
+xgboost>=2.1
+shap>=0.46
+ipywidgets>=8.0
+joblib>=1.4
+groq>=0.9  # istege bagli: LLM yorumu icin
